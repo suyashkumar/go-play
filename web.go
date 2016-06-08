@@ -1,3 +1,9 @@
+/*
+	The main entrypoint of this application. The purpose of this application is to build a
+	basic webservice and learn about Go.
+
+	@author: Suyash Kumar <suyashkumar2003@gmail.com>
+*/
 package main
 
 import (
